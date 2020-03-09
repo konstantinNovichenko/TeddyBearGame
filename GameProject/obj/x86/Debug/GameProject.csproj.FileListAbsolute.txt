@@ -1,0 +1,321 @@
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\graphics\burger.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\graphics\explosion.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\graphics\frenchfries.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybear.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybearprojectile.xnb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\GameProject.exe
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\C# projects\course\week 4\Project Increment 1\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\C# projects\course\week 4\Project Increment 1\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+F:\C# projects\course\week 4\Project Increment 1\GameProject\obj\x86\Debug\GameProject.exe
+F:\C# projects\course\week 4\Project Increment 1\GameProject\obj\x86\Debug\GameProject.pdb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\obj\x86\Debug\GameProject.exe
+F:\C# projects\course\week 6\Project Increment 2\GameProject\obj\x86\Debug\GameProject.pdb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\burger.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\explosion.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\frenchfries.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybear.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybearprojectile.xnb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\GameProject.exe
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\C# projects\course\week 6\Project Increment 2\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\burger.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\frenchfries.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybear.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\costa\Documents\C# projects\course\week 6\Project Increment 2\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\graphics\burger.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\graphics\explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\graphics\frenchfries.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybear.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 8\Project Increment 3\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\graphics\burger.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\graphics\explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\graphics\frenchfries.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybear.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\costa\Documents\C# projects\course\week 10\Project Increment 4\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\graphics\burger.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\graphics\explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\graphics\frenchfries.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybear.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\obj\x86\Debug\GameProject.csprojAssemblyReference.cache
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\obj\x86\Debug\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\obj\x86\Debug\GameProject.csproj.CopyComplete
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\obj\x86\Debug\GameProject.csprojAssemblyReference.cache
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\obj\x86\Debug\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\burger.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\explosion.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\frenchfries.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybear.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\costa\Documents\C# projects\course\GameProject\GameProject\obj\x86\Debug\GameProject.csproj.CopyComplete
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\burger.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\explosion.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\frenchfries.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybear.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.csprojAssemblyReference.cache
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.csproj.CopyComplete
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\costa\Documents\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\burger.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\explosion.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\frenchfries.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybear.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\graphics\teddybearprojectile.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.exe
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.csprojAssemblyReference.cache
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.csproj.CoreCompileInputs.cache
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.csproj.CopyComplete
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+H:\C# projects\course\week 11\ProjectIncrement5\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
